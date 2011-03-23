@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/btnLayout" android:orientation="horizontal">
+    <Button android:layout_width="wrap_content" android:id="@+id/startBtn" android:layout_height="wrap_content" android:text="@string/startBtn"></Button>
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="TextView" android:id="@+id/statusTV"></TextView>
+</LinearLayout>
+<View android:id="@+id/tapAreaView" android:layout_width="wrap_content" android:layout_height="wrap_content"></View>
+</LinearLayout>
