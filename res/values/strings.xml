@@ -4,4 +4,9 @@
     <string name="app_name">ToneDef</string>
     <string name="startBtn">Start</string>
     <string name="stopBtn">Stop</string>
+    <string name="local_service_started">ToneDef On...</string>
+    <string name="local_service_stopped">ToneDef Stopped</string>
+    <string name="local_service_label">ToneDef</string>
+    <string name="local_service_connected">ToneDefService Connected!</string>
+    <string name="local_service_disconnected">ToneDefService Disconnected!</string>
 </resources>
